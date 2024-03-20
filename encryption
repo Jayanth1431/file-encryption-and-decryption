@@ -1,0 +1,20 @@
+file-encryption-decryption/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── EncryptionAlgorithm.java
+│   │   │   ├── DecryptionAlgorithm.java
+│   │   │   ├── FileManager.java
+│   │   │   └── CommandLineInterface.java
+│   │   └── resources/
+│   │       ├── input/
+│   │       │   └── input.txt
+│   │       └── output/
+│   │           └── output.txt
+│   └── test/
+│       └── java/
+│           └── TestEncryptionDecryption.java
+├── .gitignore
+├── README.md
+└── pom.xml (if using Maven)
